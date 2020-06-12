@@ -1,6 +1,6 @@
 
 name = "DashTable"
-uuid = "1b08a953-4be3-4667-9a23-97ba45e3b7f7"
+uuid = "1b08a953-4be3-4667-9a23-d3c7dd0aada8"
 authors = ["Chris Parmer <chris@plotly.com>"]
 version = "4.7.0"
 
