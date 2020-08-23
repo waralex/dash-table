@@ -5,8 +5,8 @@
 
 # production
 /build
-/dash_table
-/inst
+
+
 /man
 /R
 DESCRIPTION
